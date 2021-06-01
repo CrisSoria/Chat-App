@@ -1,2 +1,11 @@
 # Chat-App
-LEARN: Routing, Firebase Social Login, Firebase Google Login, Firebase Facebook Login, React Context API, Chat Engine, REST API's, environment variables, and more!  In this project video, you'll build a full-fledged Firebase Chat Application. With social authentication including Google and Facebook using Firebase, online statuses, great design, and functionality, image support, sound notifications, the ability to create multiple rooms, and much more, this chat app is even better than the first chat application video I've created. I've listened to every single one of your comments and added all the features that you've requested.
+
+<img src="https://i.ibb.co/S5BxvP4/foto-Cafayate.png" align="right" alt="img" width="50%" height="auto" border="0">
+
+
+
+Aplicación de chat completamenta con login (Google o Facebook) usando Firebase, online status, envío de imágenes, sonidos de notificación, posibilidad de crear múltiples salas, y más... <br/>
+
+### TECNOLOGIAS: 
+
+Routing, Firebase Social Login, Firebase Google Login, Firebase Facebook Login, React Context API, Chat Engine, REST API's, environment variables
